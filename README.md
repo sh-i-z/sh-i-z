@@ -30,8 +30,8 @@ I build full-stack products and put LLMs inside them: agents, RAG, long-term mem
 ```
 Languages   JavaScript, Python, C++
 Frontend    React, HTML, CSS, Tailwind
-Backend     Node.js, Express, Flask
-Database    MongoDB
+Backend     Node.js, Express
+Database    MongoDB, PostgreSQL 
 AI / ML     LangGraph, RAG, prompt engineering, scikit-learn
 Cloud       AWS
 Tools       Git, GitHub, Postman
