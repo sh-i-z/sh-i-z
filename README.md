@@ -2,7 +2,7 @@
 
 <p align="center">
   Full-stack developer · MERN + GenAI<br>
-  B.Tech CSE @ MAIT Delhi (2024–2028)
+  CS undergrad, class of 2028
 </p>
 
 <p align="center">
