@@ -1,48 +1,116 @@
-<h1 align="center">Shruti</h1>
+<div align="center">
 
-<p align="center">
-  Full-stack developer · MERN + GenAI<br>
-  CS undergrad, class of 2028
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:a57bd9&height=160&section=header&text=Shruti&fontSize=54&fontColor=ffffff&fontAlignY=42&animation=fadeIn" alt="header" />
 
-<p align="center">
-  <a href="mailto:alewashruti@gmail.com">Email</a> ·
-  <a href="https://github.com/sh-i-z/Portfolio">Portfolio</a>
-</p>
+<a href="https://github.com/sh-i-z/Portfolio">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A57BD9&center=true&vCenter=true&width=520&lines=Full-stack+developer+%C2%B7+MERN+%2B+GenAI;I+build+multi-agent+systems;Agents+%C2%B7+RAG+%C2%B7+Memory+%C2%B7+Evals;CS+undergrad%2C+class+of+2028" alt="typing intro" />
+</a>
 
----
+<br><br>
 
-### About
+<a href="mailto:alewashruti@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=a57bd9" alt="Email" /></a>
+<a href="https://github.com/sh-i-z/Portfolio"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=a57bd9" alt="Portfolio" /></a>
+<img src="https://komarev.com/ghpvc/?username=sh-i-z&label=Profile+views&color=a57bd9&style=for-the-badge" alt="views" />
+
+</div>
+
+<br>
+
+## About
 
 I build full-stack products and put LLMs inside them: agents, RAG, long-term memory, guardrails and evals. I like systems where several models have to coordinate, argue or check each other's work.
 
-### Currently working on
+- Building agentic AI that does real work, not just chat
+- Comfortable end to end: React front, Node/Flask back, LLM pipeline in the middle
+- Open to internships and collaborations on agentic AI and full-stack projects
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [Portfolio](https://github.com/sh-i-z/Portfolio) | My personal site, being rebuilt and actively updated | React, JavaScript |
-| SentinelOps | AI incident engineer with RAG, guardrails, evals and CI/CD | LangGraph, Python |
-| [COURTROOM](https://github.com/sh-i-z/COURTROOM) | Multi-agent platform that debates your idea from both sides, researches the web, and lets an AI judge decide | JavaScript, LLMs |
-| [persona_bot](https://github.com/sh-i-z/persona_bot) | Multi-persona chatbot with long-term memory, context engineering and user profiling | JavaScript, LLMs |
+<br>
 
-### Stack
+## Currently working on
 
-```
-Languages   JavaScript, Python, C++
-Frontend    React, HTML, CSS, Tailwind
-Backend     Node.js, Express
-Database    MongoDB, PostgreSQL 
-AI / ML     LangGraph, RAG, prompt engineering, scikit-learn
-Cloud       AWS
-Tools       Git, GitHub, Postman
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/sh-i-z/COURTROOM">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sh-i-z&repo=COURTROOM&theme=transparent&title_color=a57bd9&text_color=c9d1d9&icon_color=a57bd9&border_color=30363d" alt="COURTROOM" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/sh-i-z/persona_bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sh-i-z&repo=persona_bot&theme=transparent&title_color=a57bd9&text_color=c9d1d9&icon_color=a57bd9&border_color=30363d" alt="persona_bot" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/sh-i-z/Portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sh-i-z&repo=Portfolio&theme=transparent&title_color=a57bd9&text_color=c9d1d9&icon_color=a57bd9&border_color=30363d" alt="Portfolio" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <b>SentinelOps</b><br>
+      AI incident engineer with RAG, guardrails, evals and CI/CD.<br>
+      <sub>LangGraph · Python</sub>
+    </td>
+  </tr>
+</table>
 
-### Certifications
+<br>
 
-IBM Data Science · AWS Machine Learning · Infosys Springboard (Pragati Cohort-5)
+## Tech stack
 
----
+<div align="center">
 
-<p align="center">
-  <sub>Open to internships and collaborations on agentic AI and full-stack projects.</sub>
-</p>
+<img src="https://skillicons.dev/icons?i=js,py,cpp,react,html,css,tailwind,nodejs,express,flask,mongodb,postgres,aws,git,github,postman&theme=dark&perline=8" alt="tech stack" />
+
+</div>
+
+<br>
+
+<details>
+<summary>AI / GenAI tooling</summary>
+<br>
+
+<img src="https://img.shields.io/badge/LangGraph-0d1117?style=flat-square&labelColor=0d1117&color=a57bd9" />
+<img src="https://img.shields.io/badge/RAG-0d1117?style=flat-square&labelColor=0d1117&color=a57bd9" />
+<img src="https://img.shields.io/badge/Prompt_engineering-0d1117?style=flat-square&labelColor=0d1117&color=a57bd9" />
+<img src="https://img.shields.io/badge/Guardrails-0d1117?style=flat-square&labelColor=0d1117&color=a57bd9" />
+<img src="https://img.shields.io/badge/Evals-0d1117?style=flat-square&labelColor=0d1117&color=a57bd9" />
+<img src="https://img.shields.io/badge/scikit--learn-0d1117?style=flat-square&labelColor=0d1117&color=a57bd9" />
+
+</details>
+
+<br>
+
+## GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sh-i-z&show_icons=true&theme=transparent&title_color=a57bd9&text_color=c9d1d9&icon_color=a57bd9&border_color=30363d&hide_border=false" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-i-z&layout=compact&theme=transparent&title_color=a57bd9&text_color=c9d1d9&border_color=30363d" alt="top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sh-i-z&theme=transparent&ring=a57bd9&fire=a57bd9&currStreakLabel=a57bd9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d&border=30363d" alt="streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sh-i-z&bg_color=0d1117&color=c9d1d9&line=a57bd9&point=ffffff&area=true&area_color=a57bd9&hide_border=true" alt="activity graph" />
+
+</div>
+
+<br>
+
+## Certifications
+
+<details>
+<summary>IBM · AWS · Infosys</summary>
+<br>
+
+- IBM Data Science
+- AWS Machine Learning
+- Infosys Springboard, Pragati Cohort-5
+
+</details>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a57bd9,100:0d1117&height=100&section=footer" alt="footer" />
+</div>
