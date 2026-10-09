@@ -97,15 +97,11 @@ I build full-stack products and put LLMs inside them: agents, RAG, long-term mem
 
 ## Certifications
 
-<details>
-<summary>IBM · AWS · Infosys</summary>
-<br>
-
-- IBM Data Science
-- AWS Machine Learning
-- Infosys Springboard, Pragati Cohort-5
-
-</details>
+| Issuer | Certification |
+| --- | --- |
+| IBM | Data Science |
+| AWS | Machine Learning |
+| Infosys Springboard | Pragati Cohort-5 |
 
 <br>
 
