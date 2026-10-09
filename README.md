@@ -87,11 +87,9 @@ I build full-stack products and put LLMs inside them: agents, RAG, long-term mem
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sh-i-z&show_icons=true&theme=transparent&title_color=a57bd9&text_color=c9d1d9&icon_color=a57bd9&border_color=30363d&hide_border=false" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-i-z&layout=compact&theme=transparent&title_color=a57bd9&text_color=c9d1d9&border_color=30363d" alt="top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh-i-z&layout=compact&hide=jupyter%20notebook&theme=transparent&title_color=a57bd9&text_color=c9d1d9&border_color=30363d" alt="top languages" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh-i-z&theme=transparent&ring=a57bd9&fire=a57bd9&currStreakLabel=a57bd9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&stroke=30363d&border=30363d" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sh-i-z&bg_color=0d1117&color=c9d1d9&line=a57bd9&point=ffffff&area=true&area_color=a57bd9&hide_border=true" alt="activity graph" />
 
 </div>
 
