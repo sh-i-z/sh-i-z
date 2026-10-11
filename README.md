@@ -4,8 +4,7 @@
 
 ```text
 ┌──────────────────────────────────────────────┐
-│  CLASS    : Full-Stack Developer             │
-│  GUILD    : IOSD · Web Dev Senior Executive  │
+│  CLASS    : Full-Stack Dev · GenAI           │
 │  BASE     : Delhi, IN                        │
 │  STATUS   : ● ONLINE · open to collab        │
 └──────────────────────────────────────────────┘
@@ -31,7 +30,7 @@ OPEN SRC   ████░░░░░░  ← leveling up
 
 ## 🎒 Inventory
 
-`JavaScript` `Python` `React` `Node` `Express` `MongoDB` `LangGraph` `Git` `AWS`
+`JavaScript` `Python` `Java` `React` `Node` `Express` `MongoDB` `LangGraph` `Git` 
 
 ## 🏆 Achievements
 
