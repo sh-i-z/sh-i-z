@@ -44,5 +44,5 @@ OPEN SRC   ████░░░░░░  ← leveling up
 Open to collaborate on open source, web, and AI projects. Building something and need another player? Send an invite.
 
 ```text
-[ portfolio ]  [ linkedin ]  [ email ]
+[ portfolio-opal-eta-kol5vgi3xx.vercel.app ] [ alewashruti@gmail.com ]
 ```
