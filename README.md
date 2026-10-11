@@ -1,19 +1,48 @@
-# hi, I'm Shruti
+# ▶ PLAYER ONE: SHRUTI
 
-CS undergrad at MAIT Delhi. I like building full-stack things and figuring out how they work underneath.
+> CS undergrad @ MAIT Delhi. Full-stack dev. Currently stuck in the DSA dungeon, and winning.
 
----
+```text
+┌──────────────────────────────────────────────┐
+│  CLASS    : Full-Stack Developer             │
+│  GUILD    : IOSD · Web Dev Senior Executive  │
+│  BASE     : Delhi, IN                        │
+│  STATUS   : ● ONLINE · open to collab        │
+└──────────────────────────────────────────────┘
+```
 
-### right now
+## ⚔ Stats
 
-- getting stronger at DSA
-- contributing to open source, most recently [open-source-radar](https://github.com/TanbirRamim/open-source-radar)
-- building with MERN and GenAI
+```text
+FRONTEND   ████████░░  
+BACKEND    ███████░░░  
+GEN AI     ███████░░░  
+DSA        █████░░░░░  ← grinding daily
+OPEN SRC   ████░░░░░░  ← leveling up
+```
 
-### open to collaborate
+## 🎯 Active quests
 
-Open source, web, and AI projects. If you're building something and need another pair of hands, say hi.
+| Quest | Status |
+|---|---|
+| Conquer DSA | `IN PROGRESS` |
+| Contribute to [open-source-radar](https://github.com/TanbirRamim/open-source-radar) | `PR SUBMITTED` |
+| Ship more MERN + GenAI builds | `ONGOING` |
 
----
+## 🎒 Inventory
 
-[portfolio](https://your-portfolio-link) · [linkedin](https://linkedin.com/in/your-handle) · [email](mailto:you@example.com)
+`JavaScript` `Python` `React` `Node` `Express` `MongoDB` `LangGraph` `Git` `AWS`
+
+## 🏆 Achievements
+
+- IBM Data Science certified
+- AWS Machine Learning certified
+- Infosys Springboard Pragati Cohort-5 completed
+
+## 🤝 Co-op mode: ON
+
+Open to collaborate on open source, web, and AI projects. Building something and need another player? Send an invite.
+
+```text
+[ portfolio ]  [ linkedin ]  [ email ]
+```
